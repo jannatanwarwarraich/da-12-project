@@ -2,7 +2,7 @@
 __pycache__/
 *.py[codz]
 *$py.class
-
+da-12-project
 # C extensions
 *.so
 
